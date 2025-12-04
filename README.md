@@ -19,4 +19,4 @@ AttitudeControlResearchPaper/
 │
 ├── See_Saw_Model_Control_Algorithm.ino      # Arduino code for the physical balancing system
 ├── See_Saw_Model_Simulation_Code.py         # Python simulation of the see-saw control model
-└── README.md                                 # Project documentation
+└── README.md                                # Project documentation
