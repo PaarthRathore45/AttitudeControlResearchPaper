@@ -1,5 +1,4 @@
 # AttitudeControlResearchPaper
-# AttitudeControlResearchPaper
 
 A research project exploring **attitude control** through a physical **see-saw model** and a **Python simulation**, supported by an **control algorithm** programmed in **Arduino**. This repository contains both the simulation code and the microcontroller code used to test balancing behavior in real time.
 
