@@ -14,8 +14,10 @@ It includes:
 The goal is to help visualize, test, and understand control theory concepts (e.g., stability, error correction, and feedback loops).
 
 ## 📂 Repository Structure
-.
-├── See_Saw_Model_Control_Algorithm.ino # Arduino code for the physical see-saw balancing system
-├── See_Saw_Model_Simulation_Code.py # Python script simulating the system dynamics
-└── README.md # Project documentation
 
+```plaintext
+AttitudeControlResearchPaper/
+│
+├── See_Saw_Model_Control_Algorithm.ino      # Arduino code for the physical balancing system
+├── See_Saw_Model_Simulation_Code.py         # Python simulation of the see-saw control model
+└── README.md                                 # Project documentation
